@@ -1,1 +1,1 @@
-* HW 6 On FSMs
+HW 6 On FSMs
